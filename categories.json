@@ -1,31 +1,64 @@
 {
-  "posts": [
+  "categories":[
     {
-      "id": 1,
-      "title": "Post 1"
+      "thumbnail": "56560.png",
+      "name": "Cake Recipes",
+      "short_description": "Find and share everyday cooking inspiration on Allrecipes.",
+      "rating": "4.5"
     },
     {
-      "id": 2,
-      "title": "Post 2"
+      "thumbnail": "56560.png",
+      "name": "Chicken Recipes",
+      "short_description": "Find and share everyday cooking inspiration on Allrecipes.",
+      "rating": "4.5"
     },
     {
-      "id": 3,
-      "title": "Post 3"
+      "thumbnail": "56560.png",
+      "name": "Bread Recipes",
+      "short_description": "Find and share everyday cooking inspiration on Allrecipes.",
+      "rating": "4.5"
+    },
+    {
+      "thumbnail": "56560.png",
+      "name": "Cookies",
+      "short_description": "Find and share everyday cooking inspiration on Allrecipes.",
+      "rating": "4.5"
+    },
+    {
+      "thumbnail": "56560.png",
+      "name": "Pasta and Noodles",
+      "short_description": "Find and share everyday cooking inspiration on Allrecipes.",
+      "rating": "4.5"
+    },
+    {
+      "thumbnail": "56560.png",
+      "name": "Shrimp Recipes",
+      "short_description": "Find and share everyday cooking inspiration on Allrecipes.",
+      "rating": "4.5"
+    },
+    {
+      "thumbnail": "56560.png",
+      "name": "Slow Cooker Recipes",
+      "short_description": "Find and share everyday cooking inspiration on Allrecipes.",
+      "rating": "4.5"
+    },
+    {
+      "thumbnail": "56560.png",
+      "name": "Soups, Stews and Chili",
+      "short_description": "Find and share everyday cooking inspiration on Allrecipes.",
+      "rating": "4.5"
+    },
+    {
+      "thumbnail": "56560.png",
+      "name": "Vegan Recipes",
+      "short_description": "Find and share everyday cooking inspiration on Allrecipes.",
+      "rating": "4.5"
+    },
+    {
+      "thumbnail": "56560.png",
+      "name": "World Cuisine",
+      "short_description": "Find and share everyday cooking inspiration on Allrecipes.",
+      "rating": "4.5"
     }
-  ],
-  "comments": [
-    {
-      "id": 1,
-      "body": "some comment",
-      "postId": 1
-    },
-    {
-      "id": 2,
-      "body": "some comment",
-      "postId": 1
-    }
-  ],
-  "profile": {
-    "name": "typicode"
-  }
+  ]
 }
