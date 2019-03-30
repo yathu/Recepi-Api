@@ -1,108 +1,81 @@
 {
-    "recommended":[
+  "recommended": [
     {
       "thumbnail": "https://loremflickr.com/320/240/food,recipes?random=1",
+      "category_icon": "https://loremflickr.com/50/50/sweets,recipes?random=1",
       "name": "Cake Recipes",
-      "short_description": "Find and share everyday cooking inspiration on Allrecipes.",
-      "rating": "4.5"
+      "rating": "4.5",
+      "duration": "05:00"
     },
     {
       "thumbnail": "https://loremflickr.com/320/240/food,recipes?random=2",
-      "name": "Chicken Recipes",
-      "short_description": "Find and share everyday cooking inspiration on Allrecipes.",
-      "rating": "4.5"
+      "category_icon": "https://loremflickr.com/50/50/sweets,recipes?random=2",
+      "name": "Cake Recipes",
+      "rating": "4.5",
+      "duration": "05:00"
     },
     {
       "thumbnail": "https://loremflickr.com/320/240/food,recipes?random=3",
-      "name": "Bread Recipes",
-      "short_description": "Find and share everyday cooking inspiration on Allrecipes.",
-      "rating": "4.5"
+      "category_icon": "https://loremflickr.com/50/50/sweets,recipes?random=3",
+      "name": "Cake Recipes",
+      "rating": "4.5",
+      "duration": "05:00"
     },
     {
       "thumbnail": "https://loremflickr.com/320/240/food,recipes?random=4",
-      "name": "Cookies",
-      "short_description": "Find and share everyday cooking inspiration on Allrecipes.",
-      "rating": "4.5"
+      "category_icon": "https://loremflickr.com/50/50/sweets,recipes?random=4",
+      "name": "Cake Recipes",
+      "rating": "4.5",
+      "duration": "05:00"
     },
     {
       "thumbnail": "https://loremflickr.com/320/240/food,recipes?random=5",
-      "name": "Pasta and Noodles",
-      "short_description": "Find and share everyday cooking inspiration on Allrecipes.",
-      "rating": "4.5"
-    },
-    {
-      "thumbnail": "https://loremflickr.com/320/240/food,recipes?random=6",
-      "name": "Shrimp Recipes",
-      "short_description": "Find and share everyday cooking inspiration on Allrecipes.",
-      "rating": "4.5"
-    },
-    {
-      "thumbnail": "https://loremflickr.com/320/240/food,recipes?random=10",
-      "name": "World Cuisine",
-      "short_description": "Find and share everyday cooking inspiration on Allrecipes.",
-      "rating": "4.5"
+      "category_icon": "https://loremflickr.com/50/50/sweets,recipes?random=5",
+      "name": "Cake Recipes",
+      "rating": "4.5",
+      "duration": "05:00"
     }
   ],
-  "categories":[
+  "categories": [
     {
       "thumbnail": "https://loremflickr.com/320/240/food,recipes?random=1",
-      "name": "Cake Recipes",
-      "short_description": "Find and share everyday cooking inspiration on Allrecipes.",
-      "rating": "4.5"
+      "name": "Cake Recipes"
     },
     {
       "thumbnail": "https://loremflickr.com/320/240/food,recipes?random=2",
-      "name": "Chicken Recipes",
-      "short_description": "Find and share everyday cooking inspiration on Allrecipes.",
-      "rating": "4.5"
+      "name": "Chicken Recipes"
     },
     {
       "thumbnail": "https://loremflickr.com/320/240/food,recipes?random=3",
-      "name": "Bread Recipes",
-      "short_description": "Find and share everyday cooking inspiration on Allrecipes.",
-      "rating": "4.5"
+      "name": "Bread Recipes"
     },
     {
       "thumbnail": "https://loremflickr.com/320/240/food,recipes?random=4",
-      "name": "Cookies",
-      "short_description": "Find and share everyday cooking inspiration on Allrecipes.",
-      "rating": "4.5"
+      "name": "Cookies"
     },
     {
       "thumbnail": "https://loremflickr.com/320/240/food,recipes?random=5",
-      "name": "Pasta and Noodles",
-      "short_description": "Find and share everyday cooking inspiration on Allrecipes.",
-      "rating": "4.5"
+      "name": "Pasta and Noodles"
     },
     {
       "thumbnail": "https://loremflickr.com/320/240/food,recipes?random=6",
-      "name": "Shrimp Recipes",
-      "short_description": "Find and share everyday cooking inspiration on Allrecipes.",
-      "rating": "4.5"
+      "name": "Shrimp Recipes"
     },
     {
       "thumbnail": "https://loremflickr.com/320/240/food,recipes?random=7",
-      "name": "Slow Cooker Recipes",
-      "short_description": "Find and share everyday cooking inspiration on Allrecipes.",
-      "rating": "4.5"
+      "name": "Slow Cooker Recipes"
     },
     {
       "thumbnail": "https://loremflickr.com/320/240/food,recipes?random=8",
-      "name": "Soups, Stews and Chili",
-      "short_description": "Find and share everyday cooking inspiration on Allrecipes.",
-      "rating": "4.5"
+      "name": "Soups, Stews and Chili"
     },
     {
       "thumbnail": "https://loremflickr.com/320/240/food,recipes?random=9",
-      "name": "Vegan Recipes",
-      "short_description": "Find and share everyday cooking inspiration on Allrecipes.",
-      "rating": "4.5"
+      "name": "Vegan Recipes"
     },
     {
       "thumbnail": "https://loremflickr.com/320/240/food,recipes?random=10",
-      "name": "World Cuisine",
-      "short_description": "Find and share everyday cooking inspiration on Allrecipes.",
-      "rating": "4.5"
+      "name": "World Cuisine"
     }
   ]
 }
