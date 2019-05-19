@@ -1,101 +1,101 @@
-{
-  "recommended": [
-    {
-      "thumbnail": "https://loremflickr.com/320/240/food,recipes?random=1",
-      "category_icon": "https://loremflickr.com/50/50/sweets,recipes?random=1",
-      "name": "Cake Recipes",
-      "rating": "4.5",
-      "duration": "05:00"
-    },
-    {
-      "thumbnail": "https://loremflickr.com/320/240/food,recipes?random=2",
-      "category_icon": "https://loremflickr.com/50/50/sweets,recipes?random=2",
-      "name": "Cake Recipes",
-      "rating": "4.5",
-      "duration": "05:00"
-    },
-    {
-      "thumbnail": "https://loremflickr.com/320/240/food,recipes?random=3",
-      "category_icon": "https://loremflickr.com/50/50/sweets,recipes?random=3",
-      "name": "Cake Recipes",
-      "rating": "4.5",
-      "duration": "05:00"
-    },
-    {
-      "thumbnail": "https://loremflickr.com/320/240/food,recipes?random=4",
-      "category_icon": "https://loremflickr.com/50/50/sweets,recipes?random=4",
-      "name": "Cake Recipes",
-      "rating": "4.5",
-      "duration": "05:00"
-    },
-    {
-      "thumbnail": "https://loremflickr.com/320/240/food,recipes?random=5",
-      "category_icon": "https://loremflickr.com/50/50/sweets,recipes?random=5",
-      "name": "Cake Recipes",
-      "rating": "4.5",
-      "duration": "05:00"
-    }
+{  
+  "recommended":[  
+     {  
+        "thumbnail":"https://loremflickr.com/320/240/food,recipes?random=1",
+        "category_icon":"https://loremflickr.com/50/50/sweets,recipes?random=1",
+        "name":"Cake Recipes",
+        "rating":"4.5",
+        "duration":"05:00"
+     },
+     {  
+        "thumbnail":"https://loremflickr.com/320/240/food,recipes?random=2",
+        "category_icon":"https://loremflickr.com/50/50/sweets,recipes?random=2",
+        "name":"Cake Recipes",
+        "rating":"4.5",
+        "duration":"05:00"
+     },
+     {  
+        "thumbnail":"https://loremflickr.com/320/240/food,recipes?random=3",
+        "category_icon":"https://loremflickr.com/50/50/sweets,recipes?random=3",
+        "name":"Cake Recipes",
+        "rating":"4.5",
+        "duration":"05:00"
+     },
+     {  
+        "thumbnail":"https://loremflickr.com/320/240/food,recipes?random=4",
+        "category_icon":"https://loremflickr.com/50/50/sweets,recipes?random=4",
+        "name":"Cake Recipes",
+        "rating":"4.5",
+        "duration":"05:00"
+     },
+     {  
+        "thumbnail":"https://loremflickr.com/320/240/food,recipes?random=5",
+        "category_icon":"https://loremflickr.com/50/50/sweets,recipes?random=5",
+        "name":"Cake Recipes",
+        "rating":"4.5",
+        "duration":"05:00"
+     }
   ],
-  "categories": [
-    {
-      "thumbnail": "https://loremflickr.com/320/240/food,recipes?random=1",
-      "name": "Cake Recipes"
-    },
-    {
-      "thumbnail": "https://loremflickr.com/320/240/food,recipes?random=2",
-      "name": "Chicken Recipes"
-    },
-    {
-      "thumbnail": "https://loremflickr.com/320/240/food,recipes?random=3",
-      "name": "Bread Recipes"
-    },
-    {
-      "thumbnail": "https://loremflickr.com/320/240/food,recipes?random=4",
-      "name": "Cookies"
-    },
-    {
-      "thumbnail": "https://loremflickr.com/320/240/food,recipes?random=5",
-      "name": "Pasta and Noodles"
-    },
-    {
-      "thumbnail": "https://loremflickr.com/320/240/food,recipes?random=6",
-      "name": "Shrimp Recipes"
-    },
-    {
-      "thumbnail": "https://loremflickr.com/320/240/food,recipes?random=7",
-      "name": "Slow Cooker Recipes"
-    },
-    {
-      "thumbnail": "https://loremflickr.com/320/240/food,recipes?random=8",
-      "name": "Soups, Stews and Chili"
-    },
-    {
-      "thumbnail": "https://loremflickr.com/320/240/food,recipes?random=9",
-      "name": "Vegan Recipes"
-    },
-    {
-      "thumbnail": "https://loremflickr.com/320/240/food,recipes?random=10",
-      "name": "World Cuisine"
-    },
-    {
-      "thumbnail": "https://loremflickr.com/320/240/food,recipes?random=11",
-      "name": "Butter Chicken"
-    },
-    {
-      "thumbnail": "https://loremflickr.com/320/240/food,recipes?random=12",
-      "name": "Tandoori Chicken"
-    },
-    {
-      "thumbnail": "https://loremflickr.com/320/240/food,recipes?random=13",
-      "name": "Malai Kofta"
-    },
-    {
-      "thumbnail": "https://loremflickr.com/320/240/food,recipes?random=14",
-      "name": "Masala Chai"
-    },
-    {
-      "thumbnail": "https://loremflickr.com/320/240/food,recipes?random=15",
-      "name": "Matar Paneer"
-    }
+  "categories":[  
+     {  
+        "thumbnail":"https://loremflickr.com/320/240/food,recipes?random=1",
+        "name":"Cake Recipes"
+     },
+     {  
+        "thumbnail":"https://loremflickr.com/320/240/food,recipes?random=2",
+        "name":"Chicken Recipes"
+     },
+     {  
+        "thumbnail":"https://loremflickr.com/320/240/food,recipes?random=3",
+        "name":"Bread Recipes"
+     },
+     {  
+        "thumbnail":"https://loremflickr.com/320/240/food,recipes?random=4",
+        "name":"Cookies"
+     },
+     {  
+        "thumbnail":"https://loremflickr.com/320/240/food,recipes?random=5",
+        "name":"Pasta and Noodles"
+     },
+     {  
+        "thumbnail":"https://loremflickr.com/320/240/food,recipes?random=6",
+        "name":"Shrimp Recipes"
+     },
+     {  
+        "thumbnail":"https://loremflickr.com/320/240/food,recipes?random=7",
+        "name":"Slow Cooker Recipes"
+     },
+     {  
+        "thumbnail":"https://loremflickr.com/320/240/food,recipes?random=8",
+        "name":"Soups, Stews and Chili"
+     },
+     {  
+        "thumbnail":"https://loremflickr.com/320/240/food,recipes?random=9",
+        "name":"Vegan Recipes"
+     },
+     {  
+        "thumbnail":"https://loremflickr.com/320/240/food,recipes?random=10",
+        "name":"World Cuisine"
+     },
+     {  
+        "thumbnail":"https://loremflickr.com/320/240/food,recipes?random=11",
+        "name":"Butter Chicken"
+     },
+     {  
+        "thumbnail":"https://loremflickr.com/320/240/food,recipes?random=12",
+        "name":"Tandoori Chicken"
+     },
+     {  
+        "thumbnail":"https://loremflickr.com/320/240/food,recipes?random=13",
+        "name":"Malai Kofta"
+     },
+     {  
+        "thumbnail":"https://loremflickr.com/320/240/food,recipes?random=14",
+        "name":"Masala Chai"
+     },
+     {  
+        "thumbnail":"https://loremflickr.com/320/240/food,recipes?random=15",
+        "name":"Matar Paneer"
+     }
   ]
 }
