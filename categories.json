@@ -77,25 +77,25 @@
       "thumbnail": "https://loremflickr.com/320/240/food,recipes?random=10",
       "name": "World Cuisine"
     },
-	{
+    {
       "thumbnail": "https://loremflickr.com/320/240/food,recipes?random=11",
       "name": "Butter Chicken"
     },
-	{
+    {
       "thumbnail": "https://loremflickr.com/320/240/food,recipes?random=12",
       "name": "Tandoori Chicken"
     },
-	{
+    {
       "thumbnail": "https://loremflickr.com/320/240/food,recipes?random=13",
       "name": "Malai Kofta"
     },
-	{
+    {
       "thumbnail": "https://loremflickr.com/320/240/food,recipes?random=14",
       "name": "Masala Chai"
     },
-	{
+    {
       "thumbnail": "https://loremflickr.com/320/240/food,recipes?random=15",
       "name": "Matar Paneer"
-    },
+    }
   ]
 }
